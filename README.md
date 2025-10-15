@@ -34,6 +34,12 @@ plant_disease_prediction/
 ├── sample_images/ # Sample test images
 └── README.md # Project documentation
 
+## Plant Disease Prediction
+
+This project uses a pre-trained deep learning model to predict plant diseases.
+
+### Download the pre-trained model
+[Download Model]('/content/plant_disease_prediction_model.h5')
 
 ---
 
